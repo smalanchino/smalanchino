@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" height="150"/>
-  <p><i>meow 🐾</i></p>
+  <imgsrc="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1ieGlyZ2w2YWpvZmljajdzcjJ3c2I1bzZmeno4bXdzcHh5M214YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7budMRwZvNGJ3pyE/giphy.gif" height="150"/>
+  <p><i>Welcome!!!</i></p>
 </div>
 
 ---
