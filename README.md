@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="220"/>
 </div>
 
 ---
