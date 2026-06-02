@@ -9,8 +9,7 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-ADS student passionate about technology and constantly learning new things.<br>
-Currently studying C language and exploring different areas of development.
+Hello, world! I'm Sara — exploring the tech world and discovering my path in development.
 </p>
 
 ---
@@ -19,16 +18,6 @@ Currently studying C language and exploring different areas of development.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
-</div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smalanchino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ff8fb1&icon_color=ff8fb1"/>
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smalanchino&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ff8fb1"/>
 </div>
 
 ---
