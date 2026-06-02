@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ea/d5/fb/ead5fb90b3ee304ba41d77d46e2e09e3.gif" width="220"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="180"/>
 </div>
 
 ---
